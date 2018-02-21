@@ -12,7 +12,7 @@ See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/
 
 ## [Solutions](https://github.com/thekarangoel/Projects-Solutions)
 
-You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
+You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions) or get some informations from [this link](https://github.com/binbin666/Projects/patch_2.md).
 
 ## Credits
 
